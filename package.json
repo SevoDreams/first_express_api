@@ -1,0 +1,8 @@
+{
+  "name": "hello-api",
+  "description": "Hello World API",
+  "author": "Maurice",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
